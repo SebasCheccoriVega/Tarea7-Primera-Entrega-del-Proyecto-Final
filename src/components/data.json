@@ -1,0 +1,30 @@
+[
+    {
+"id":"1",
+        "title":"Hoddie Rojo",
+        "description":"Tela de la mejor calidad del Pais",
+        "price":89,
+        "categoryid":1,
+        "stock":2,
+        "pictureurl":"https://http2.mlstatic.com/D_NQ_NP_829568-MPE50726150625_072022-W.jpg"
+    },
+    {
+"id":"2",
+        "title":"hoddie blanco",
+        "description":"Tela de la mejor calidad del Pais",
+        "price":89,
+        "categoryid":1,
+        "stock":3,
+    "pictureurl":"https://i.linio.com/p/48b4cc56d35045a0056574738507df5f-product.jpg"
+    },
+    {
+"id":"3",
+        "title":"Polo plomo",
+        "description":"Tela de la mejor calidad del Pais",
+        "price":59,
+        "categoryid":2,
+        "stock":4,
+    "pictureurl":"https://promart.vteximg.com.br/arquivos/ids/505478-1000-1000/48184.jpg?v=637327778257970000"
+    }
+
+]
